@@ -4,6 +4,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hii All This is rihisvant singh");
+        System.out.println( "Hii All This is rishivant singh");
     }
 }
